@@ -1,2 +1,2 @@
-# community
-Jiasheng community
+ # community
+Just learn how to build a community
